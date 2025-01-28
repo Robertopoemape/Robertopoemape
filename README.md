@@ -29,7 +29,7 @@ I'm a **Junior Flutter Developer** passionate about creating **responsive user i
 
 ### 🌐 Let's Connect
 - **Portfolio**: [Your Portfolio Link Here](#)  
-- **LinkedIn**: [(https://www.linkedin.com/in/roberto-poemape-b27109191/)]
+- **LinkedIn**: (https://www.linkedin.com/in/roberto-poemape-b27109191/)
 - **GitHub**: [github.com/Robertopoemape](https://github.com/Robertopoemape)  
 
 ---
