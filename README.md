@@ -1,19 +1,37 @@
 <div align='center'> 
-## Hi, I'm Roberto Poemape👋
+  <h2>Hi, I'm Roberto Poemape 👋</h2>
+  <img src='https://via.placeholder.com/150' alt='Logo Placeholder' width='150'>
+</div>
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffree-logo-png&psig=AOvVaw2YQlNBhrV6-1Jc6rfI9wOO&ust=1738178921102000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMia6pqTmYsDFQAAAAAdAAAAABAE'>
-<!--
-**Robertopoemape/Robertopoemape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I'm a **Junior Flutter Developer** passionate about creating **responsive user interfaces** and solving challenges through **clean and scalable code**. I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **State management**: Provider, Riverpod, Bloc  
+- **API Integration**: RESTful services, dynamic JSON-based components  
+- **Persistence**: SQLite, Hive, SharedPreferences  
 
+### 🏆 Notable Projects
+- **Event Access Control App**: Improved scalability through dynamic components.  
+- **Club Alianza Lima Member App**: Designed and developed key features for members.  
+- **Cashless Payment App**: Contributed to development and maintenance.
+
+---
+
+### 💡 Skills
+- **Languages**: Dart, JavaScript, HTML, CSS  
+- **Databases**: Firebase, SQL Server, MySQL  
+- **Design Patterns**: MVVM, MVC  
+- **Tools**: Git, GitHub, Postman, Figma, Adobe XD  
+
+---
+
+### 🌐 Let's Connect
+- **Portfolio**: [Your Portfolio Link Here](#)  
+- **LinkedIn**: [Your LinkedIn Link Here](#)  
+- **GitHub**: [github.com/Robertopoemape](https://github.com/Robertopoemape)  
+
+---
+
+💬 **"Code is my tool to turn ideas into impactful solutions."**
