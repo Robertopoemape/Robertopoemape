@@ -61,7 +61,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certification Icon"/>
   </a>
   <a href="https://robertopoemape.github.io/home.html" target="_blank">
- <img src="https://img.icons8.com/ios-filled/50/000000/earth-globe.png"/>
+ <img src="https://img.icons8.com/ios-filled/50/000000/earth.png"/>
   </a>
 </p>
 ---
