@@ -4,7 +4,7 @@
   🚀 <strong>Junior Flutter Developer</strong> passionate about crafting innovative mobile solutions.  
   💻 Turning ideas into functional, scalable, and user-friendly apps.
 
-
+  <img src="https://badgen.net/#pub/flutter-platform/xml" />
 </div>
 <div>
   <img src="https://komarev.com/ghpvc/?username=Robertopoemape&label=Profile%20views&color=0e75b6&style=flat" />
