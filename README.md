@@ -59,9 +59,18 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ---
 
 ## 🌐 Let's Connect
-- 🌐 **Portfolio**: [Your Portfolio Link Here](#)  
-- 💼 **LinkedIn**: [linkedin.com/in/roberto-poemape-b27109191](https://www.linkedin.com/in/roberto-poemape-b27109191/)  
-- 📂 **GitHub**: [github.com/Robertopoemape](https://github.com/Robertopoemape)  
+
+<p align="center">
+  <a href="https://linkedin.com/in/roberto-poemape-b27109191" target="_blank">
+    <img src="https://badgen.net/badge/LinkedIn/View%20Profile/blue?icon=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Robertopoemape" target="_blank">
+    <img src="https://badgen.net/badge/GitHub/Robertopoemape/black?icon=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.facebook.com/tu_perfil" target="_blank">
+    <img src="https://badgen.net/badge/Facebook/Follow/blue?icon=facebook" alt="Facebook Badge"/>
+  </a>
+</p>
 
 ---
 
