@@ -36,10 +36,10 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ---
 
-<div align='center'> 
-https://badgen.net/pub/flutter-platform/xml](https://badgen.net/badge/{subject}/{status}/{color})
-
-</div>
+### 🚀 Badges  
+<div align='center'>  
+  <img src="https://badgen.net/badge/Flutter/Platform/blue" alt="Flutter Platform Badge">  
+</div>  
 
 ---
 
