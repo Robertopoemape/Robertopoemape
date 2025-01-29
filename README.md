@@ -49,7 +49,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres Icon" width="50" />
 </p>
-
 ### ⚙️ Design Patterns & State Management
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/provider/provider-original.svg" alt="Provider Icon" width="50" />
