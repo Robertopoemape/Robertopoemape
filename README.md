@@ -64,16 +64,16 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-poemape-b27109191/" target="_blank">
-    <img src="https://badgen.net/badge/LinkedIn/View%20Profile/blue?icon=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon"/>
   </a>
   <a href="https://github.com/Robertopoemape" target="_blank">
-    <img src="https://badgen.net/badge/GitHub/Robertopoemape/black?icon=github" alt="GitHub Badge"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon"/>
   </a>
   <a href="https://www.facebook.com/tu_perfil" target="_blank">
-    <img src="https://badgen.net/badge/Facebook/Follow/blue?icon=facebook" alt="Facebook Badge"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook Icon"/>
   </a>
   <a href="https://certificados.codeable.la/certificates/2024-PC18200012" target="_blank">
-    <img src="https://badgen.net/badge/Certification/Pre%20Codeable/blue" alt="Pre Codeable Certification Badge"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certification Icon"/>
   </a>
 </p>
 ---
