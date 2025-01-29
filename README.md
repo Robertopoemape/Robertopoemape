@@ -25,74 +25,43 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ---
 ## 💡 Skills
+## 💡 Skills
 
 ### 🚀 Languages
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="Dart Icon" width="50" />
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="JavaScript Icon" width="50" />
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="HTML Icon" width="50" />
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="CSS Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Icon" width="50" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="Firebase Icon" width="50" />
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="SQL Server Icon" width="50" />
-  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="MySQL Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SQL Server Icon" width="50" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/flutter.svg" alt="Flutter Icon"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/git.svg" alt="Git Icon"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.svg" alt="GitHub Icon"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/postman.svg" alt="Postman Icon"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/figma.svg" alt="Figma Icon"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/adobe-xd.svg" alt="Adobe XD Icon"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres Icon" width="50" />
 </p>
 
 ### ⚙️ Design Patterns & State Management
 <p align="center">
-  <a href="https://pub.dev/packages/provider" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/provider.svg" alt="Provider Icon"/>
-  </a>
-  <a href="https://riverpod.dev/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/riverpod.svg" alt="Riverpod Icon"/>
-  </a>
-  <a href="https://pub.dev/packages/flutter_bloc" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/bloc.svg" alt="Bloc Icon"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mvvm.svg" alt="MVVM Icon"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mvc.svg" alt="MVC Icon"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/provider/provider-original.svg" alt="Provider Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/riverpod/riverpod-original.svg" alt="Riverpod Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bloc/bloc-original.svg" alt="Bloc Icon" width="50" />
 </p>
 
 ### 🔥 Other Skills
 <p align="center">
-  <a href="https://www.restapitutorial.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.svg" alt="API Integration Icon"/>
-  </a>
-  <a href="https://www.google.com/search?q=in-app+payments" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/payment.svg" alt="In-App Payments Icon"/>
-  </a>
-  <a href="https://www.clean-code-developer.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/clean-code.svg" alt="Clean Code Icon"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="API Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/payment/payment-original.svg" alt="In-App Payments Icon" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clean-code/clean-code-original.svg" alt="Clean Code Icon" width="50" />
 </p>
 
 ---
