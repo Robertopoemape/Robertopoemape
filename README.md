@@ -60,8 +60,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ## 🌐 Let's Connect
 
-## 🌐 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-poemape-b27109191/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon"/>
