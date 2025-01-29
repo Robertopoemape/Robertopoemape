@@ -54,11 +54,14 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://github.com/Robertopoemape" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon"/>
   </a>
-  <a href="https://www.facebook.com/tu_perfil" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook Icon"/>
-  </a>
   <a href="https://certificados.codeable.la/certificates/2024-PC18200012" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certification Icon"/>
+  </a>
+ <a href="https://robertopoemape.github.io/home.html" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certification Icon"/>
+  </a>
+  <a href="https://robertopoemape.github.io/home.html" target="_blank">
+ <img src="https://img.icons8.com/ios-filled/50/000000/worldwide-location.png"/>
   </a>
 </p>
 ---
