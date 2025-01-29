@@ -21,11 +21,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ---
 
-
-
-
----
-
 ## 💡 Skills
 <p align="center">
   <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Icon" width="50" /></a>
