@@ -98,7 +98,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ### 💬 Collaboration Tools
 <p align="center">
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://www.atlassian.com/software" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira Icon" width="50" />
   </a>
   <a href="https://slack.com/" target="_blank">
@@ -107,9 +107,9 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion Icon" width="50" />
   </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord Icon" width="50" />
-  </a>
+<a href="https://discord.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord Icon" width="50" />
+</a>
 </p>
 
 ### 🎨 UI/UX Design
