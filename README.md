@@ -49,16 +49,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
  
 </p>
 
-### ⚙️ Design Patterns
-<p align="center">
-  <a href="https://www.patterns.dev/posts/mvvm-design-pattern/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="MVVM Icon" width="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="MVC Icon" width="50" />
-  </a>
-</p>
-
 ### 🔄 State Management
 <p align="center">
   <a href="https://pub.dev/packages/provider" target="_blank">
