@@ -25,7 +25,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ---
 ## 💡 Skills
-## 💡 Skills
 
 ### 🚀 Languages
 <p align="center">
@@ -47,23 +46,18 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git Icon" width="50" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres Icon" width="50" />
-</p>
-### ⚙️ Design Patterns & State Management
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" alt="Provider Icon" width="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/riverpod.svg" alt="Riverpod Icon" width="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bloc.svg" alt="Bloc Icon" width="50" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres Icon" width="50" />
+  </a>
 </p>
 
-### 🔥 Other Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/api.svg" alt="API Icon" width="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/payment.svg" alt="In-App Payments Icon" width="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clean-code.svg" alt="Clean Code Icon" width="50" />
-</p>
+
 
 ---
 
