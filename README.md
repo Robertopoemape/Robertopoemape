@@ -21,15 +21,12 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ---
 
-## 🏆 Notable Projects
-- **Event Access Control App**: Enhanced scalability using dynamic components with JSON.  
-- **Club Alianza Lima Member App**: Developed features for members, improving usability.  
-- **Cashless Payment App**: Contributed to seamless payment workflows and app maintenance.  
-## 💡 Skills
+
+
 
 ---
 
-### 🛠️ Tecnologias and tools
+## 💡 Skills
 <p align="center">
   <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Icon" width="50" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="50" /></a>
