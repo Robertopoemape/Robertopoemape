@@ -60,8 +60,10 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ## 🌐 Let's Connect
 
+## 🌐 Let's Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/roberto-poemape-b27109191" target="_blank">
+  <a href="https://www.linkedin.com/in/roberto-poemape-b27109191/" target="_blank">
     <img src="https://badgen.net/badge/LinkedIn/View%20Profile/blue?icon=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Robertopoemape" target="_blank">
@@ -70,8 +72,10 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://www.facebook.com/tu_perfil" target="_blank">
     <img src="https://badgen.net/badge/Facebook/Follow/blue?icon=facebook" alt="Facebook Badge"/>
   </a>
+  <a href="https://certificados.codeable.la/certificates/2024-PC18200012" target="_blank">
+    <img src="https://badgen.net/badge/Certification/Pre%20Codeable/blue" alt="Pre Codeable Certification Badge"/>
+  </a>
 </p>
-
 ---
 
 <div align="center">
