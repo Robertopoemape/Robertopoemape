@@ -49,26 +49,26 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
  
 </p>
 
-### 🔄 State Management
+### ⚙️ State Management
 <p align="center">
   <a href="https://pub.dev/packages/provider" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/provider/provider-original.svg" alt="Provider Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Provider Icon" width="50" />
   </a>
-  <a href="https://pub.dev/packages/bloc" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bloc/bloc-original.svg" alt="Bloc Icon" width="50" />
+  <a href="https://bloclibrary.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Bloc Icon" width="50" />
   </a>
-  <a href="https://pub.dev/packages/riverpod" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/riverpod/riverpod-original.svg" alt="Riverpod Icon" width="50" />
+  <a href="https://riverpod.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Riverpod Icon" width="50" />
   </a>
 </p>
 
 ### 🔧 Dependency Injection
 <p align="center">
   <a href="https://pub.dev/packages/get_it" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/get_it/get_it-original.svg" alt="GetIt Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="GetIt Icon" width="50" />
   </a>
   <a href="https://pub.dev/packages/injectable" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/injectable/injectable-original.svg" alt="Injectable Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Injectable Icon" width="50" />
   </a>
 </p>
 
