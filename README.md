@@ -51,16 +51,16 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 </p>
 ### ⚙️ Design Patterns & State Management
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/provider/provider-original.svg" alt="Provider Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/riverpod/riverpod-original.svg" alt="Riverpod Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bloc/bloc-original.svg" alt="Bloc Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" alt="Provider Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/riverpod.svg" alt="Riverpod Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bloc.svg" alt="Bloc Icon" width="50" />
 </p>
 
 ### 🔥 Other Skills
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="API Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/payment/payment-original.svg" alt="In-App Payments Icon" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clean-code/clean-code-original.svg" alt="Clean Code Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/api.svg" alt="API Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/payment.svg" alt="In-App Payments Icon" width="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clean-code.svg" alt="Clean Code Icon" width="50" />
 </p>
 
 ---
