@@ -38,7 +38,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ### 🗄️ Databases
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase.svg" alt="Firebase Icon" width="50" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="50" />
