@@ -21,8 +21,9 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 - **Event Access Control App**: Enhanced scalability using dynamic components with JSON.  
 - **Club Alianza Lima Member App**: Developed features for members, improving usability.  
 - **Cashless Payment App**: Contributed to seamless payment workflows and app maintenance.  
+## 💡 Skills
 
----## 💡 Skills
+---
 
 ### 🚀 Languages
 <p align="center">
@@ -106,8 +107,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://img.icons8.com/ios-filled/50/000000/clean-code.svg" alt="Clean Code Icon"/>
   </a>
 </p>
-
-
 
 ---
 
