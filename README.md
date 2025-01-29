@@ -8,8 +8,8 @@
 
 </div>
 <div>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Robertopoemape&label=Profile%20views&color=0e75b6&style=flat)
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=Robertopoemape&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
 ---
 
 ## 👨‍💻 About Me
