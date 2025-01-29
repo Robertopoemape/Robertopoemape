@@ -44,7 +44,9 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Icon" width="50" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git Icon" width="50" />
+  </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres Icon" width="50" />
