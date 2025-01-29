@@ -23,38 +23,90 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 - **Cashless Payment App**: Contributed to seamless payment workflows and app maintenance.  
 
 ---
-
 ## 💡 Skills
+
 ### 🚀 Languages
-![Dart](https://badgen.net/badge/Language/Dart/0175C2?icon=swift)
-![JavaScript](https://badgen.net/badge/Language/JavaScript/F7DF1E?icon=javascript)
-![HTML](https://badgen.net/badge/Markup/HTML/E34F26?icon=html5)
-![CSS](https://badgen.net/badge/Styles/CSS/1572B6?icon=css3)
+<p align="center">
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/dart.png" alt="Dart Icon"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript Icon"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML Icon"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS Icon"/>
+  </a>
+</p>
 
 ### 🗄️ Databases
-![Firebase](https://badgen.net/badge/Database/Firebase/FFCA28?icon=firebase)
-![SQL Server](https://badgen.net/badge/Database/SQL%20Server/CC2927?icon=microsoft)
-![MySQL](https://badgen.net/badge/Database/MySQL/4479A1?icon=mysql)
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" alt="Firebase Icon"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql-server.png" alt="SQL Server Icon"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL Icon"/>
+  </a>
+</p>
 
 ### 🛠️ Tools & Technologies
-![Flutter](https://badgen.net/badge/Framework/Flutter/02569B?icon=flutter)
-![Git](https://badgen.net/badge/Version%20Control/Git/F05032?icon=git)
-![GitHub](https://badgen.net/badge/Repo/GitHub/181717?icon=github)
-![Postman](https://badgen.net/badge/API/Postman/FF6C37?icon=postman)
-![Figma](https://badgen.net/badge/Design/Figma/F24E1E?icon=figma)
-![Adobe XD](https://badgen.net/badge/Design/Adobe%20XD/FF61F6?icon=adobe)
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/flutter.png" alt="Flutter Icon"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git Icon"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/postman.png" alt="Postman Icon"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma Icon"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/adobe-xd.png" alt="Adobe XD Icon"/>
+  </a>
+</p>
 
 ### ⚙️ Design Patterns & State Management
-![Provider](https://badgen.net/badge/State%20Management/Provider/blue)
-![Riverpod](https://badgen.net/badge/State%20Management/Riverpod/green)
-![Bloc](https://badgen.net/badge/State%20Management/Bloc/orange)
-![MVVM](https://badgen.net/badge/Pattern/MVVM/purple)
-![MVC](https://badgen.net/badge/Pattern/MVC/cyan)
+<p align="center">
+  <a href="https://pub.dev/packages/provider" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/provider.png" alt="Provider Icon"/>
+  </a>
+  <a href="https://riverpod.dev/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/riverpod.png" alt="Riverpod Icon"/>
+  </a>
+  <a href="https://pub.dev/packages/flutter_bloc" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/bloc.png" alt="Bloc Icon"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mvvm.png" alt="MVVM Icon"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" alt="MVC Icon"/>
+  </a>
+</p>
 
 ### 🔥 Other Skills
-![API Integration](https://badgen.net/badge/API/RESTful/blue)
-![In-App Payments](https://badgen.net/badge/Feature/In-App%20Payments/green)
-![Clean Code](https://badgen.net/badge/Code%20Style/Clean/blue)
+<p align="center">
+  <a href="https://www.restapitutorial.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API Integration Icon"/>
+  </a>
+  <a href="https://www.google.com/search?q=in-app+payments" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/payment.png" alt="In-App Payments Icon"/>
+  </a>
+  <a href="https://www.clean-code-developer.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/clean-code.png" alt="Clean Code Icon"/>
+  </a>
+</p>
 
 ---
 
