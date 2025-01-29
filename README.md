@@ -52,25 +52,29 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ### ⚙️ State Management
 <p align="center">
   <a href="https://pub.dev/packages/provider" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Provider Icon" width="50" />
+    <span style="font-size: 16px; font-weight: bold;">Provider</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://bloclibrary.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/callstack/react-native-paper/master/docs/assets/BLoC.png" alt="Bloc Icon" width="50" />
+    <span style="font-size: 16px; font-weight: bold;">Bloc</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://riverpod.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Riverpod Icon" width="50" />
+    <span style="font-size: 16px; font-weight: bold;">Riverpod</span>
   </a>
 </p>
 
 ### 🔧 Dependency Injection
 <p align="center">
   <a href="https://pub.dev/packages/get_it" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="GetIt Icon" width="50" />
+    <span style="font-size: 16px; font-weight: bold;">GetIt</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://pub.dev/packages/injectable" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Injectable Icon" width="50" />
+    <span style="font-size: 16px; font-weight: bold;">Injectable</span>
   </a>
 </p>
+
 
 ### 💡 Error Handling
 <p align="center">
