@@ -44,7 +44,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="50" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="SQL Server Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/sqlServer-original.svg" alt="SQL Server Icon" width="50" />
   </a>
   <a href="https://www.hive.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive Icon" width="50" />
