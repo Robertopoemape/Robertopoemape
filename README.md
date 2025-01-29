@@ -108,7 +108,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion Icon" width="50" />
   </a>
 <a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Collaboration-Discord-blueviolet?style=for-the-badge" alt="Discord Badge" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord Icon" width="50" />
 </a>
 </p>
 
