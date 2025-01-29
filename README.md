@@ -117,15 +117,9 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma Icon" width="50" />
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" alt="Adobe XD Icon" width="50" />
-  </a>
+
 </p>
 
-### 🔄 Refactoring & Maintenance
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="Code Refactoring Icon" width="50" />
-</p>
 
 
 
