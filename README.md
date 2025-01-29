@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Hi, I'm RoberDevs 👋</h2>
-  <img src="https://via.placeholder.com/800x200?text=RoberDevs+Banner" alt="RoberDevs Banner">
   <br><br>
   🚀 <strong>Junior Flutter Developer</strong> passionate about crafting innovative mobile solutions.  
   💻 Turning ideas into functional, scalable, and user-friendly apps.
