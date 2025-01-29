@@ -76,14 +76,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 </p>
 
 
-
-### 💡 Error Handling
-<p align="center">
-  <a href="https://dart.dev/guides/language/language-tour#functional-programming" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/functional/functional-original.svg" alt="Functional Programming Icon" width="50" />
-  </a>
-</p>
-
 ### 🛠️ Development Tools
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
