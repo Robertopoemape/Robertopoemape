@@ -63,7 +63,6 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" alt="Certification Icon"/>
   </a>
 </p>
----
 
 <div align="center">
   💬 <strong>"Code is my tool to turn ideas into impactful solutions."</strong> 🚀  
