@@ -3,7 +3,7 @@
   <br><br>
   🚀 <strong>Junior Flutter Developer</strong> passionate about crafting innovative mobile solutions.  
   💻 Turning ideas into functional, scalable, and user-friendly apps.
-
+<br><br>
   <img src="https://badgen.net/pub/flutter-platform/xml" alt="Flutter Badge"/>
 </div>
 <div>
@@ -14,11 +14,6 @@
 ## 👨‍💻 About Me
 I'm a **Junior Flutter Developer** with a strong focus on creating **responsive user interfaces**, **clean code**, and **scalable applications**. I specialize in:
 
-- **State Management**: Provider, Riverpod, Bloc  
-- **API Integration**: RESTful services, dynamic JSON-based components  
-- **Persistence**: SQLite, Hive, SharedPreferences  
-
----
 
 ## 💡 Skills
 <p align="center">
