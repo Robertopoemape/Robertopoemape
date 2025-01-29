@@ -24,34 +24,21 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ## 💡 Skills
 
 ---
+## 💡 Skills
 
 ### 🚀 Languages
 <p align="center">
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dart.svg" alt="Dart Icon"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.svg" alt="JavaScript Icon"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/html-5.svg" alt="HTML Icon"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/css3.svg" alt="CSS Icon"/>
-  </a>
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="Dart Icon" width="50" />
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="JavaScript Icon" width="50" />
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="HTML Icon" width="50" />
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/48px.svg" alt="CSS Icon" width="50" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.svg" alt="Firebase Icon"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/sql-server.svg" alt="SQL Server Icon"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.svg" alt="MySQL Icon"/>
-  </a>
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="Firebase Icon" width="50" />
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="SQL Server Icon" width="50" />
+  <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/database/48px.svg" alt="MySQL Icon" width="50" />
 </p>
 
 ### 🛠️ Tools & Technologies
