@@ -52,28 +52,29 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ### ⚙️ State Management
 <p align="center">
   <a href="https://pub.dev/packages/provider" target="_blank">
-    <span style="font-size: 16px; font-weight: bold;">Provider</span>
+    <img src="https://img.shields.io/badge/State%20Management-Provider-blue?style=for-the-badge" alt="Provider Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://bloclibrary.dev/" target="_blank">
-    <span style="font-size: 16px; font-weight: bold;">Bloc</span>
+    <img src="https://img.shields.io/badge/State%20Management-Bloc-orange?style=for-the-badge" alt="Bloc Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://riverpod.dev/" target="_blank">
-    <span style="font-size: 16px; font-weight: bold;">Riverpod</span>
+    <img src="https://img.shields.io/badge/State%20Management-Riverpod-green?style=for-the-badge" alt="Riverpod Badge"/>
   </a>
 </p>
 
 ### 🔧 Dependency Injection
 <p align="center">
   <a href="https://pub.dev/packages/get_it" target="_blank">
-    <span style="font-size: 16px; font-weight: bold;">GetIt</span>
+    <img src="https://img.shields.io/badge/Dependency%20Injection-GetIt-blue?style=for-the-badge" alt="GetIt Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://pub.dev/packages/injectable" target="_blank">
-    <span style="font-size: 16px; font-weight: bold;">Injectable</span>
+    <img src="https://img.shields.io/badge/Dependency%20Injection-Injectable-purple?style=for-the-badge" alt="Injectable Badge"/>
   </a>
 </p>
+
 
 
 ### 💡 Error Handling
