@@ -28,7 +28,8 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 
 ### 💡 Skills
 - **Languages**: Dart, JavaScript, HTML, CSS  
-- **Databases**: Firebase, SQL Server, MySQL  
+- **Databases**: Firebase, SQL Server, MySQL
+- 
 - **Design Patterns**: MVVM, MVC  
 - **Tools**: Git, GitHub, Postman, Figma, Adobe XD  
 - **Other**: API Integration, In-App Payments, Clean Code Practices  
@@ -36,7 +37,8 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
 ---
 
 <div align='center'> 
-  <img src='https://via.placeholder.com/400x150.png?text=RoberDevs+Skills' alt='Skills Banner' width='400'>
+https://badgen.net/pub/flutter-platform/xml
+
 </div>
 
 ---
