@@ -46,9 +46,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server Icon" width="50" />
   </a>
-  <a href="https://www.hive.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive Icon" width="50" />
-  </a>
+ 
 </p>
 
 ### ⚙️ Design Patterns
