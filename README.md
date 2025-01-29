@@ -55,7 +55,7 @@ I'm a **Junior Flutter Developer** with a strong focus on creating **responsive 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Provider Icon" width="50" />
   </a>
   <a href="https://bloclibrary.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Bloc Icon" width="50" />
+    <img src="https://raw.githubusercontent.com/callstack/react-native-paper/master/docs/assets/BLoC.png" alt="Bloc Icon" width="50" />
   </a>
   <a href="https://riverpod.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Riverpod Icon" width="50" />
